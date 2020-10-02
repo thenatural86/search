@@ -1,0 +1,74 @@
+a:visited {
+    color: blue;
+}
+
+h5 {
+    /* margin-bottom: 100px; */
+    margin-left: 780px;
+}
+
+.anchors {
+    margin-left: 70em;
+}
+
+.heading {
+    text-align: center;
+}
+
+.adv-heading {
+    color: #d93025;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.forms {
+    text-align: center;
+}
+
+.search {
+    border-radius: 15px;
+    margin-bottom: 2px;
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.btn-submit {
+    border-radius: 15px;
+    margin-top: 5px;
+    height: 30px;
+
+}
+
+.adv-submit {
+    color: white;
+    background-color: #4d90fe;
+    height: 30px;
+}
+
+.google-img {
+    height: 92px;
+    width: 272px
+}
+
+.labels {}
+
+/* .adv-forms {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+.adv-search {
+    width: 400px;
+}
+
+.adv {
+    /* background-color: chocolate; */
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    width: 600px;
+}
